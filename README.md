@@ -1,5 +1,6 @@
 # CAPM-Calculator
 Executable python app to calculate CAPM
+
 the executable Python app creates a simple GUI to calculate the expected return using the CAPM formula. The user inputs the risk-free rate, the asset’s beta, and the expected market return, and the program calculates the expected return.
 Explanation of the Program:
 •	The program prompts the user to input the risk-free rate, asset beta, and market return.
